@@ -1,0 +1,41 @@
+
+# Coding Platform Progress Tracker
+# Updated: 24 November 2026
+
+---
+
+## HackerRank
+- Profile URL: [Paste your HackerRank profile URL]
+- Problems solved: [Enter actual count]
+- Skill test: Python Basic
+- Certificate: Pending
+
+## LeetCode
+- Profile URL: [Paste your LeetCode profile URL]
+- Easy attempted: [Enter actual count]
+- Easy solved: [Enter actual count]
+- Medium attempted: 0
+
+## freeCodeCamp
+- Profile URL: [Paste your freeCodeCamp profile URL]
+- Current track: Responsive Web Design
+- Steps completed: 25
+
+---
+
+## Weekly Goals
+Week of 24 November 2026
+
+- [ ] 3 HackerRank Python problems
+- [ ] 1 LeetCode Easy problem
+- [ ] 10 freeCodeCamp steps
+
+---
+
+## Monthly Milestones
+
+Month 1: Complete 10 HackerRank problems and attempt Python Basic test.
+
+Month 2: Solve 10 LeetCode Easy problems and complete HTML Lab on freeCodeCamp.
+
+Month 3: Earn HackerRank Python Basic certificate and reach 25 LeetCode Easy problems.
